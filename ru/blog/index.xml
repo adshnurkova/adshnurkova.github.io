@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog | </title>
+    <link>https://adshnurkova.github.io/ru/blog/</link>
+      <atom:link href="https://adshnurkova.github.io/ru/blog/index.xml" rel="self" type="application/rss+xml" />
+    <description>Blog</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://adshnurkova.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
+      <title>Blog</title>
+      <link>https://adshnurkova.github.io/ru/blog/</link>
+    </image>
+    
+    <item>
+      <title>Учебная неделя студентки</title>
+      <link>https://adshnurkova.github.io/ru/blog/01/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://adshnurkova.github.io/ru/blog/01/</guid>
+      <description>&lt;h2 id=&#34;-моя-учебная-неделя&#34;&gt;📅 Моя учебная неделя&lt;/h2&gt;
+&lt;p&gt;Эта неделя в университете прошла активно и продуктивно. Каждый день приносил новые знания, задачи и опыт, которые помогают мне лучше понимать выбранное направление — &lt;strong&gt;бизнес-информатику&lt;/strong&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🎓 На лекциях мы продолжили изучать основы &lt;strong&gt;информационных систем&lt;/strong&gt; и их применение в управлении компаниями. Было интересно рассматривать реальные примеры использования технологий в бизнесе.&lt;/li&gt;
+&lt;li&gt;💻 На практических занятиях я работала с заданиями по &lt;strong&gt;программированию&lt;/strong&gt;, закрепляя базовые принципы и структуру кода. Постепенно становится легче понимать логику программ.&lt;/li&gt;
+&lt;li&gt;📊 Также мы обсуждали методы &lt;strong&gt;анализа данных&lt;/strong&gt; и способы представления информации, которые помогают принимать решения в бизнесе.&lt;/li&gt;
+&lt;li&gt;📚 В свободное время я повторяла учебный материал и готовилась к следующим занятиям, чтобы лучше усвоить новые темы.&lt;/li&gt;
+&lt;li&gt;🤝 Некоторые задания выполнялись в небольших группах, поэтому удалось потренировать навыки &lt;strong&gt;командной работы&lt;/strong&gt; и обсуждения идей.&lt;/li&gt;
+&lt;li&gt;🌿 Несмотря на учебную нагрузку, я старалась находить время для отдыха и прогулок, чтобы поддерживать баланс между учебой и личным временем.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Каждая неделя обучения помогает мне постепенно развивать навыки в сфере &lt;strong&gt;информационных технологий и аналитики&lt;/strong&gt;, а также лучше понимать, как IT может применяться в бизнесе. Впереди ещё много интересных тем и новых знаний.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
