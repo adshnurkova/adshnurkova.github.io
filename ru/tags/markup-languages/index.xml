@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markup Languages | </title>
+    <link>https://adshnurkova.github.io/ru/tags/markup-languages/</link>
+      <atom:link href="https://adshnurkova.github.io/ru/tags/markup-languages/index.xml" rel="self" type="application/rss+xml" />
+    <description>Markup Languages</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Fri, 20 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://adshnurkova.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
+      <title>Markup Languages</title>
+      <link>https://adshnurkova.github.io/ru/tags/markup-languages/</link>
+    </image>
+    
+    <item>
+      <title>Легковесные языки разметки</title>
+      <link>https://adshnurkova.github.io/ru/publications/02/</link>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://adshnurkova.github.io/ru/publications/02/</guid>
+      <description>&lt;h2 id=&#34;-легковесные-языки-разметки&#34;&gt;📝 Легковесные языки разметки&lt;/h2&gt;
+&lt;p&gt;На этой неделе я познакомилась с понятием &lt;strong&gt;легковесных языков разметки&lt;/strong&gt; и их применением в разработке, обучении и документации. Эти инструменты оказались гораздо удобнее и практичнее, чем казалось на первый взгляд.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📄 Легковесные языки разметки, такие как &lt;strong&gt;Markdown&lt;/strong&gt;, позволяют быстро форматировать текст без сложного синтаксиса. Они легко читаются даже в исходном виде.&lt;/li&gt;
+&lt;li&gt;💻 Я попробовала использовать Markdown для оформления заметок и учебных материалов — это значительно упростило структуру текста.&lt;/li&gt;
+&lt;li&gt;🧩 Также мы рассмотрели другие языки, например &lt;strong&gt;reStructuredText&lt;/strong&gt; и &lt;strong&gt;Asciidoc&lt;/strong&gt;, которые применяются в технической документации.&lt;/li&gt;
+&lt;li&gt;📊 Одним из преимуществ является возможность преобразования текста в разные форматы: HTML, PDF и другие, что делает их универсальным инструментом.&lt;/li&gt;
+&lt;li&gt;⚙️ Легковесные языки активно используются в системах контроля версий, таких как Git, для написания README-файлов и документации проектов.&lt;/li&gt;
+&lt;li&gt;📚 В процессе изучения стало понятно, что такие языки помогают сосредоточиться на содержании, а не на сложной верстке.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Изучение легковесных языков разметки показало, насколько важно уметь &lt;strong&gt;структурировать информацию&lt;/strong&gt; и представлять её в удобном формате. Эти навыки полезны не только в учебе, но и в будущей работе в сфере IT.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
