@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal Website | </title>
+    <link>https://adshnurkova.github.io/ru/tags/personal-website/</link>
+      <atom:link href="https://adshnurkova.github.io/ru/tags/personal-website/index.xml" rel="self" type="application/rss+xml" />
+    <description>Personal Website</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 28 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://adshnurkova.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
+      <title>Personal Website</title>
+      <link>https://adshnurkova.github.io/ru/tags/personal-website/</link>
+    </image>
+    
+    <item>
+      <title>Сайт научного работника на Hugo Academic</title>
+      <link>https://adshnurkova.github.io/ru/projects/hugo/</link>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://adshnurkova.github.io/ru/projects/hugo/</guid>
+      <description>&lt;h2 id=&#34;-сайт-научного-работника-на-hugo-academic&#34;&gt;🌐 Сайт научного работника на Hugo Academic&lt;/h2&gt;
+&lt;p&gt;В рамках учебной деятельности я познакомилась с процессом создания персонального сайта научного работника с использованием &lt;strong&gt;Hugo Academic&lt;/strong&gt;. Такой сайт позволяет структурированно представить научные достижения, публикации и профессиональный опыт.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🧩 &lt;strong&gt;Hugo&lt;/strong&gt; — это быстрый генератор статических сайтов, который позволяет создавать современные веб-ресурсы без сложной серверной логики.&lt;/li&gt;
+&lt;li&gt;🎓 &lt;strong&gt;Academic (Wowchemy)&lt;/strong&gt; — тема для Hugo, ориентированная на исследователей, преподавателей и студентов, позволяющая удобно оформлять научный профиль.&lt;/li&gt;
+&lt;li&gt;📄 На сайте можно размещать &lt;strong&gt;публикации, проекты, резюме, курсы и блог&lt;/strong&gt;, что делает его универсальным инструментом для академической среды.&lt;/li&gt;
+&lt;li&gt;⚙️ Настройка сайта осуществляется через конфигурационные файлы и Markdown, что упрощает управление контентом.&lt;/li&gt;
+&lt;li&gt;🌍 Готовый сайт можно разместить на платформах вроде GitHub Pages, обеспечив открытый доступ к информации.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;В процессе работы я изучила структуру проекта, научилась редактировать страницы и настраивать внешний вид сайта под свои задачи.&lt;/p&gt;
+&lt;p&gt;📚 Создание такого ресурса помогает сформировать &lt;strong&gt;цифровое портфолио&lt;/strong&gt;, которое может быть полезно при участии в научных проектах, стажировках и профессиональной деятельности.&lt;/p&gt;
+&lt;p&gt;Этот опыт показал, насколько важно уметь представлять свои знания и достижения в удобной и современной форме.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
